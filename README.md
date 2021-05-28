@@ -7,7 +7,6 @@
 <h3 align="center"> I'm Web Developer Student, 🚀 </h3>
 <p align="center"> I seek to be a source of inspiration and innovation for everyone, and impact the world with my ethos.🌎 </p>
 
-![profile](https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png)
 
  
  <br/>
