@@ -16,7 +16,7 @@
  
  <br/>  
 
- ##### DEGREES: I'm currently studying Front-End at [FUNECE - Fundação Universidade Estadual do Ceará](http://www.uece.br/); 
+ ##### DEGREES: I'm currently studying Front-End at [FUNECE - Fundação Universidade Estadual do Ceará](http://www.uece.br/)
 
  
 
