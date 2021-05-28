@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saulomlcosta10@gmail.com)
 
 <h3 align="center"> I'm Web Developer Student, 🚀 </h3>
-<p align="center"> I seek to be a source of inspiration and innovation for everyone, and impact the world with my ethos.🌎 </p>
+<p align="center"> I seek to be a source of inspiration and innovation for everyone, and impact the world with my ethos. 🌎 </p>
 
 
  
@@ -16,7 +16,7 @@
  
  <br/>  
 
- ##### DEGREES: I'm currently studying Front-End at [FUNECE - Fundação Universidade Estadual do Ceará](http://www.uece.br/)
+ ##### DEGREES: I'm currently studying Front-End at [FUNECE - Fundação Universidade Estadual do Ceará](http://www.uece.br/).
 
  
 
