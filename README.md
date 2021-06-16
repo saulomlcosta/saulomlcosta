@@ -16,6 +16,9 @@
   
   <i> <h3 align="center">   💙 ReactJS  | NodeJS | SQL <p> </h3>
   </i>
+  
+  <i> <h3 align="center">   💙 Git <p> </h3>
+  </i>
  
  <br/>  
 
