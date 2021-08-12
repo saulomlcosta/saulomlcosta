@@ -11,7 +11,7 @@
  
  <br/>
  
-<i> <h3 align="center">    HTML | CSS | Javascript  <p> </h3>
+<i> <h3 align="center">    HTML | CSS | Javascript | JAVA   <p> </h3>
   </i>
   
   <i> <h3 align="center">    ReactJS  | NodeJS | SQL <p> </h3>
