@@ -11,11 +11,13 @@
 ### Find me elsewhere 🌎
 
 💼 [LinkedIn](https://www.linkedin.com/in/saulocosta10) <br>
+
 📸 [Instagram](https://instagram.com/saulocosta10) <br>
 
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulomlcosta&layout=compact)](https://github.com/saulomlcosta/github-readme-stats)</p>
- 
  <p align="center"> I seek to be a source of inspiration and innovation for everyone, and impact the world with my ethos. 🌎 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulomlcosta&layout=compact)](https://github.com/saulomlcosta/github-readme-stats)
+ 
 
 
  
