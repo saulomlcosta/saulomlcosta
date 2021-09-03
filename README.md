@@ -4,11 +4,14 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/saulomlcosta)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saulocosta10/)
 
-<h3 align="center"> I'm Web Developer Student, 🚀 </h3>
+
+:rocket: Fullstack Developer at Tecnologia DC
 
 :cityscape: Living in Fortaleza, Brazil <br>
 
 📚 Systems analysis and development student at [FUNECE - Fundação Universidade Estadual do Ceará](http://www.uece.br/).
+
+
 
 ### Let's change the 🌎 !!!
 
