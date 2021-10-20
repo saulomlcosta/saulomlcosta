@@ -13,7 +13,7 @@
 
 
 
-### Let's change the 🌎 !!! Enjoy!
+### Let's change the 🌎 !!! 
 
 
  <p align="center"> I seek to be a source of inspiration and innovation for everyone, and impact the world with my ethos. 🌎 </p>
