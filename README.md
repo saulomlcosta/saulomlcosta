@@ -9,7 +9,7 @@
 
 :cityscape: Living in Fortaleza, Brazil <br>
 
-📚 Systems analysis and development student at [FUNECE - Fundação Universidade Estadual do Ceará](http://www.uece.br/).
+📚 Systems analysis and development student at [Estácio de Sá University](https://estacio.br/).
 
 
 
