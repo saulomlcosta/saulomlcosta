@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saulocosta10/)
 
 
-:rocket: Fullstack Developer at Tecnologia DC
+:rocket: Fullstack Developer at AjaxTI
 
 :cityscape: Living in Fortaleza, Brazil <br>
 
