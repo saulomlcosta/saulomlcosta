@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saulocosta10/)
 
 
-:rocket: Fullstack Developer at AjaxTI - Advanced Technological Solutions
+:rocket: Junior Software Developer at AjaxTI - Advanced Technological Solutions
 
 
 :cityscape: Living in Fortaleza, Brazil <br>
