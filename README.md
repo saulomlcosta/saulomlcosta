@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saulocosta10/)
 
 
-:rocket: Junior Full Stack Developer at e-Auditoria Software as a service
+:rocket: Junior Full Stack Developer at e-Auditoria Software as a Service
 
 
 :cityscape: Living in Fortaleza, Brazil <br>
