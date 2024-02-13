@@ -6,7 +6,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```c#
-public class SoftwareEngineer
+public class SoftwareEngineer : LifeEntity
 {
     public string Name { get; private set; }
     public string Role { get; private set; }
