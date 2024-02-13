@@ -14,10 +14,10 @@
 
 
 
-### Let's change the 🌎 !!! 
+### Let's change the 🌎 with 💻!!! 
 
 
- <p align="center"> I aspire to be a source of inspiration and innovation for everyone, impacting the world with my ethos. 🌎 </p>
+ <p align="center"> I aspire to be a source of inspiration and innovation for everyone, impacting the world with my ethos. </p>
 
 
 
