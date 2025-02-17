@@ -5,7 +5,7 @@
 
 ## My name is Saulo Costa
 
-(.C# | .NET | ASP.NET | React JS | Javascript | HTML | CSS | Sql Server) 🚀
+(C# | .NET | ASP.NET | React JS | Javascript | HTML | CSS | Sql Server) 🚀
 - 👩‍💻 Software Enginner @[eAuditoria](https://www.e-auditoria.com.br/)
 - 🎓 Technologist's degree in Analysis and Systems Development
 - 🌐 Passionate about web development
