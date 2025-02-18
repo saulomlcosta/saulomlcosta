@@ -20,7 +20,7 @@ I'm **Saulo Costa**, a passionate **Software Engineer** specializing in **Backen
 - 🎓 Hold a **Technologist's degree in Analysis and Systems Development**.
 - 🌐 Love building scalable web applications and solving complex problems.
 - 💡 Always excited about learning new technologies and taking on challenges.
-- 🛠️ Strong advocate for clean code, best practices, and modern software engineering tools.
+- 🚀 Passionate about continuous learning and striving to reach the next level.
 
 ---
 
